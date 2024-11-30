@@ -104,3 +104,24 @@ Bu eklentiyi bir çakı niyetiyle kullanabilir ve yer yer farklı özelliklerind
 [Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf))
 
 ?> uMatrix eklentisinin resmi desteği her ne kadar bitmiş de olsa eklentide herhangi bir güvenlik açığı veya sızıntı mevcut değildir. Çalışmayı sürdürmekte ve bütün özelliklerinden istediğiniz şekilde yararlanabilirsiniz. -->
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/cookie.png" alt="I still don't care about cookies" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> I still don't care about cookies
+
+**I still don't care about cookies** eklentisi, web sitelerinde karşımıza çıkan rahatsız edici çerez bildirimlerini otomatik olarak reddetmeye veya direkt göstermemeye yarayan bir tarayıcı eklentisidir. Kullanıcıların gezinme deneyimini iyileştirmek için tasarlanan bu eklenti, çerez uyarılarını sessizce ortadan kaldırır ve saçma çerez sorularını karşınıza çıkarmadan internetten datanızı korumaya yarar.Özellikle, Avrupa Birliği’nin Çerez Yasası (GDPR) ile uyumlu web sitelerinde sıkça görülen bildirimlere çözüm sunar.
+
+I still don't care about cookies eklentisi [açık kaynaktır](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) ve GPL-3.0 lisansı <span style="color: green;"><small>(Özgür Yazılım)</small></span> kullanmaktadır. Hem chrome hemde firefox için kullanıma açıktır.
+
+<div class="web-store-container">
+    <div class="web-store-box">
+        <i class="fab fa-firefox"></i>
+        <div class="title">
+            <a href="https://addons.mozilla.org/tr/firefox/addon/istilldontcareaboutcookies/" target="_blank" style="color: inherit; text-decoration: none;">Firefox Mağazası</a>
+        </div>
+    </div>
+    <div class="web-store-box">
+        <i class="fab fa-google"></i>
+        <div class="title">
+            <a href="https://chromewebstore.google.com/detail/i-still-dont-care-about-c/edibdbjcniadpccecjdfdjjppcpchdlm?pli=1" target="_blank" style="color: inherit; text-decoration: none;">Google Mağazası</a>
+        </div>
+    </div>
+</div>
